@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+   width: 800px;
+   margin: 0px auto;
+   border: 1px solid hotpink;
+   background-color:aqua;
+}
+.main .top h1{
+    text-align: center;
+    background-color:khaki;
+    color: blueviolet;
+    font-size: 65px;
+}
+.div-input{
+    width: 480px;
+    margin: 0 auto;
+    padding: 10px 5px;
+    background-color: beige;
+    color: red;
+}
+.div-input input{
+    width: 471px;
+    border: 1px solid green;
+    padding: 10px 20px;
+}
+.div-input textarea{
+    width:471px;
+    padding: 10px 10px;
+    color:black;
+    background-color: cadetblue;
+}
+.div-input button{
+    width:471px;
+    color: lemonchiffon;
+    background-color: mediumturquoise;
+}
